@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<!--
-**JHenriqueSousa/JHenriqueSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Bem vindos à minha página! O meu nome é João Henrique Sousa, estudante de gestão e programação de sistemas informáticos. Definitivamente não sou o mais inteligente na área, mas procuro sempre aprender e desenvolver as minhas capacidades ao máximo. No fundo, acho que o que não me falta é atitude. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ocasionalmente posto projetos desenvolvidos por mim, mas por agora não esperem muito 😄.
+
+
+## Paixões
+
+- Cibersegurança
+- Videojogos, principalmente aquelas que disponibilizam algum tipo de competição
+- Desenvolvimento web
+- Futsal
+
+## Entre em contacto :coffee:
+
+- [Twitter](https://twitter.com/JHenriqueSousaa).
+- [LinkedIn](https://www.linkedin.com/in/JHenriqueSousaa).
+- No GitHub, apesar de já estar aqui (Recursion).
