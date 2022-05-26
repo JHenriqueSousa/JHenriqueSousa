@@ -17,5 +17,5 @@ Ocasionalmente posto projetos desenvolvidos por mim, mas por agora não esperem 
 ## Entre em contacto :coffee:
 
 - [Twitter](https://twitter.com/JHenriqueSousaa).
-- [LinkedIn](https://www.linkedin.com/in/JHenriqueSousaa).
+- [LinkedIn](https://www.linkedin.com/in/JHenriqueSousa).
 - No GitHub, apesar de já estar aqui (Recursion).
