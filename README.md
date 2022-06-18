@@ -1,4 +1,12 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+```
 
 ## Sobre Mim 🧍
 
@@ -17,6 +25,6 @@ Ocasionalmente posto projetos desenvolvidos por mim.
 
 ## Entre em contacto ☕
 
-- [Twitter](https://twitter.com/JHenriqueSousaa).
-- [LinkedIn](https://www.linkedin.com/in/JHenriqueSousa).
-- [E-mail](mailto:contacto@jhenriquesousa.com).
+- [Twitter](https://twitter.com/JHenriqueSousaa)
+- [LinkedIn](https://www.linkedin.com/in/JHenriqueSousa)
+- [E-mail](mailto:contacto@jhenriquesousa.com)
