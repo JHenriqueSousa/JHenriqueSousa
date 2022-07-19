@@ -10,7 +10,7 @@
 
 ## Sobre Mim 🧍
 
-Olá! Bem vindos à minha página! O meu nome é João Henrique Sousa, estudante de gestão e programação de sistemas informáticos. Definitivamente não sou o mais inteligente na área, mas procuro sempre aprender e desenvolver as minhas capacidades ao máximo. No fundo, acho que o que não me falta é atitude. 
+Olá! Bem vindos à minha página! O meu nome é João Henrique Sousa, e durante os últimos três anos fui estudante de gestão e programação de sistemas informáticos. Definitivamente não sou o mais inteligente na área, mas procuro sempre aprender e desenvolver as minhas capacidades ao máximo.
 
 Ocasionalmente posto projetos desenvolvidos por mim.
 
