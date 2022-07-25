@@ -1,30 +1,12 @@
-```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
-```
 
-## Sobre Mim 🧍
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-Olá! Bem vindos à minha página! O meu nome é João Henrique Sousa, e durante os últimos três anos fui estudante de gestão e programação de sistemas informáticos. Definitivamente não sou o mais inteligente na área, mas procuro sempre aprender e desenvolver as minhas capacidades ao máximo.
+- ⚡ &nbsp;I embrace continuous learning, and I'm passionate about all things tech. Highly motivated IT student with strong interpersonal and communication skills.
+- 🌱 &nbsp;I’m currently learning Python
+- 📫 &nbsp;How to reach me: [@JHenriqueSousaa](https://twitter.com/JHenriqueSousaa), [E-mail](mailto:contacto@jhenriquesousa.com) or [LinkedIn (https://www.linkedin.com/in/JHenriqueSousa)
 
-Ocasionalmente posto projetos desenvolvidos por mim.
-
-
-## Paixões ❤️
-
-- Cibersegurança
-- Python, SQL e PHP
-- Desenvolvimento web
-- Videojogos, principalmente aqueles que disponibilizam algum tipo de competição
-- Futsal
-
-## Entre em contacto ☕
-
-- [Twitter](https://twitter.com/JHenriqueSousaa)
-- [LinkedIn](https://www.linkedin.com/in/JHenriqueSousa)
-- [E-mail](mailto:contacto@jhenriquesousa.com)
+📕 &nbsp;**My Opensource Story**
+All of my projects are released as open-source on GitHub:
+- [Nerdware](https://github.com/JHenriqueSousa/nerdware) - An Open Source project created from scratch, thinking about what would fit best for the community. Nerdware is a powerful, consistent, and flexible ecommerce platform. Built using the RainTpl and Slim frameworks, Nerdware provides a simple yet highly extensible architecture that encourages companies to start selling Online.
+- [ReparoCellars](https://github.com/JHenriqueSousa/reparocellars) - My first Open Source app, a repair manager, that can fit all types of companies.
