@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - ⚡ &nbsp;I embrace continuous learning, and I'm passionate about all things tech. Highly motivated IT student with strong interpersonal and communication skills.
 - 🌱 &nbsp;I’m currently learning Python
-- 📫 &nbsp;How to reach me: [@JHenriqueSousaa](https://twitter.com/JHenriqueSousaa), [E-mail](mailto:contacto@jhenriquesousa.com) or [LinkedIn (https://www.linkedin.com/in/JHenriqueSousa)
+- 📫 &nbsp;How to reach me: [@JHenriqueSousaa](https://twitter.com/JHenriqueSousaa), [E-mail](mailto:contacto@jhenriquesousa.com) or [LinkedIn] (https://www.linkedin.com/in/JHenriqueSousa)
 
 📕 &nbsp;**My Opensource Story**
 All of my projects are released as open-source on GitHub:
